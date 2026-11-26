@@ -3,11 +3,13 @@ name: Nouveau ticket
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
-assignees: adassapenseebilong-oss
+assignees: ''
 
 ---
 
-"contexte"
-"d'écrire en quelque ligne le contexte
-
-critère d acceptation
+"Contexte"
+"d'écrire en quelque ligne 
+critères 
+[1]
+[2]
+[5]
